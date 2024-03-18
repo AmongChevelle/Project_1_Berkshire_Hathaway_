@@ -1,2 +1,2 @@
 # Project_1_Berkshire_Hathaway_
-ඞ
+Berkshire Hathaway Text Mining Project
